@@ -4,7 +4,7 @@
 		"language_english_name": "Chinese",
 		"translations": {
 			"CONTINUE": "继续",
-            "CREDITS": "制作人",
+                        "CREDITS": "制作人",
 			"NEW_GAME": "新游戏",
 			"LOAD_GAME": "加载游戏",
 			"SETTINGS": "设置",
