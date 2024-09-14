@@ -10,7 +10,7 @@
     "links": [{"type": "homepage", "url": "https://github.com/sgqm"}],
     "authors": [{ "name": "sgqm,", "contacts": ["https://github.com/sgqm"] }],
     "changelog": "",
-    "assets": [{ "type": "json", "path": "assets/language.json" }],
+    "assets": [{ "type": "json", "path": "sgqm.github.io//Sinicization-of-Chinese-tech-giantsmod/versions/v0.2.0/assets/language.json" }],
     "supportedGameVersion": ">=0.2.0-beta.7",
     "createdAt": "2024-07-22T10:30:00.000Z",
     "license": "sgqm.github.io//Sinicization-of-Chinese-tech-giantsmod/LICENSE.md",
