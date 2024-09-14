@@ -1,6 +1,6 @@
-# Your Mod Name
+#Sinicization-of-Chinese-tech-giantsmod
 
 To install this mod copy and paste below link into the mod section of Tech Giants Game. 
 ```
-https://username.github.io/repository/repository.json
+https://sgqm.github.io/repository/repository.json
 ``` 
