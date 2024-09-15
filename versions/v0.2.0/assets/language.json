@@ -127,7 +127,7 @@
 			"VERSION": "版本",
 			"SUPPORTED_GAME_VERSION": "支持的游戏版本",
 			"AUTHOR": "作者",
-			"AUTHOR_BY": "由四个全面制作",
+			"AUTHOR_BY": "由<name>制作",
 			"ENABLE": "启用",
 			"DISABLE": "禁用",
 			"ENABLED_MODS": "启用模组",
